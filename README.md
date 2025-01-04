@@ -9,3 +9,5 @@ Create an own version of a foreign repository:
 4. wait for an email that all is ok :-)
 
 Das ist meine Änderung. Und noch eine Änderung
+
+Ich bin eine Änderung eines Beitragenden :)
