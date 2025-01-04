@@ -8,4 +8,4 @@ Create an own version of a foreign repository:
 3. give it an own name
 4. wait for an email that all is ok :-)
 
-Das ist meine Änderung.
+Das ist meine Änderung. Und noch eine Änderung
