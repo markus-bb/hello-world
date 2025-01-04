@@ -7,3 +7,5 @@ Create an own version of a foreign repository:
 2. fill in the GitHub-URL of the foreign repository
 3. give it an own name
 4. wait for an email that all is ok :-)
+
+Das ist meine Änderung.
